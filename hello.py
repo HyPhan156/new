@@ -1,3 +1,6 @@
 print("hello world")
 print("Them 1 dong")
 print("Them dong thu moi")
+print("Them dong thu 3")
+print("Dong thu 4")
+print("Dong thu 5")
